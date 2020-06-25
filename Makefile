@@ -1,4 +1,4 @@
-# $NetBSD: Makefile,v 1.3 2020/01/25 11:17:31 schmonz Exp $
+# $NetBSD: Makefile,v 1.5 2020/06/25 05:42:40 schmonz Exp $
 
 DISTNAME=		daemontools-encore-1.11
 PKGREVISION=		2
